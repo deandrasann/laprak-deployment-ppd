@@ -5,5 +5,5 @@ matplotlib
 seaborn
 plotly
 scikit-learn
+scikit-learn-intelex
 xgboost
-scikit-learn-extra

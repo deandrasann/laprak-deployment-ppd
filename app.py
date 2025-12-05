@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 from sklearn.preprocessing import StandardScaler
-from sklearn.cluster import KMeans
-from sklearn_extra.cluster import KMedoids
+from sklearnex.cluster import KMeans, KMedoids
+
 
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
